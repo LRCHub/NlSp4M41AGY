@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "アルカホリック・ランデヴー 2020 (self cover)",
+  "base_artist": "WhaleDontSleep",
+  "createdAt": "2026-04-02T08:48:38.992003Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルカホリック・ランデヴー",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_01_アルカホリック・ランデヴー_くじら.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アルカホリック・ランデヴー 2020 (self cover)",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_02_アルカホリック・ランデヴー_2020_(self_cover)_くじら.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アルカホリック・ランデヴー 2020",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_03_アルカホリック・ランデヴー_2020_くじら.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "アルカホリック・ランデヴー 2020 (self cover)",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_04_アルカホリック・ランデヴー_2020_(self_cover)_くじら.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "アルカホリック・ランデヴー 2020 (self cover)",
+      "artist": "くじら",
+      "has_synced": false,
+      "path": "select/pl_05_アルカホリック・ランデヴー_2020_(self_cover)_くじら.txt"
+    }
+  ]
+}
